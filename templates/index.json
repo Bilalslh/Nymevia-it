@@ -536,6 +536,115 @@
         "background_gradient": "",
         "text_color": "#ffffff"
       }
+    },
+    "faq_LPcKRW": {
+      "type": "faq",
+      "blocks": {
+        "item_9xQHTY": {
+          "type": "item",
+          "settings": {
+            "title": "Quali sono gli ingredienti?",
+            "content": "<p>La vaselina e l’olio minerale aiutano a trattenere l’idratazione, mentre la cera d’api offre una protezione naturale. La vitamina E nutre in profondità e l’acido ialuronico aiuta a levigare le piccole linee. Arricchito con oro 24K e potenti antiossidanti, offre una sensazione lussuosa.</p>"
+          }
+        },
+        "item_6yTgNk": {
+          "type": "item",
+          "settings": {
+            "title": "È solo un altro gadget?",
+            "content": "<p>No. Nymevia utilizza una tecnologia avanzata adattiva al pH che reagisce alla chimica delle tue labbra. Ogni persona ottiene una tonalità unica — dal nude delicato al mauve. Il pH delle tue labbra determina il risultato, proprio come il tuo incarnato naturale.</p>"
+          }
+        },
+        "item_rtKhaF": {
+          "type": "item",
+          "settings": {
+            "title": "Cosa cambia il colore? È sicuro?",
+            "content": "<p>Speciali estratti botanici reagiscono al pH delle tue labbra (simili a quelli presenti nei fiori) per creare tonalità personalizzate in base alla tua chimica. Dermatologicamente testato, vegano, cruelty-free e senza parabeni, ftalati o sostanze chimiche aggressive.</p>"
+          }
+        },
+        "item_DRUEQT": {
+          "type": "item",
+          "settings": {
+            "title": "Ho le labbra molto secche. Posso usarlo comunque?",
+            "content": "<p>Sì! A differenza dei rossetti tradizionali che possono seccare le labbra, Nymevia funziona come un balsamo colorato. Idrata, nutre e valorizza le labbra mentre dona colore. È come un trattamento idratante con una tonalità personalizzata che dura tutto il giorno.</p>"
+          }
+        },
+        "item_zzaPeh": {
+          "type": "item",
+          "settings": {
+            "title": "Quanto dura il colore?",
+            "content": "<p>Una volta sviluppato (circa 30 secondi), il colore dura fino a 8 ore. Resiste all’acqua, non lascia tracce sulle tazze e resta confortevole. La maggior parte delle clienti lo riapplica a metà giornata per mantenere un effetto fresco per tutto il giorno.</p>"
+          }
+        },
+        "item_PkrjFU": {
+          "type": "item",
+          "settings": {
+            "title": "È adatto alla mia carnagione?",
+            "content": "<p>Assolutamente! La tecnologia adattiva al pH di Nymevia funziona con la chimica unica delle tue labbra. Le clienti descrivono tonalità che vanno dal rosa tenue a sfumature più intense, fino a rossi profondi. Il colore valorizzerà sempre il tuo incarnato.</p>"
+          }
+        },
+        "item_jhQqXM": {
+          "type": "item",
+          "settings": {
+            "title": "Posso intensificare il colore?",
+            "content": "<p>Sì! Una sola applicazione dona una tonalità naturale e delicata. Applicane 2 o 3 strati per intensificare il colore, oppure applicane meno per un look più soft. Nessun effetto pesante o appiccicoso.</p>"
+          }
+        },
+        "item_E3NBdM": {
+          "type": "item",
+          "settings": {
+            "title": "È adatto alle labbra mature?",
+            "content": "<p>Perfetto per le labbra mature! La formula idratante e rimpolpante leviga le labbra invece di depositarsi nelle linee sottili. L’acido ialuronico aiuta a rimpolpare e a ridurre visibilmente le rughe, per un effetto più giovane e voluminoso.</p>"
+          }
+        },
+        "item_pcaKdn": {
+          "type": "item",
+          "settings": {
+            "title": "È sicuro per le labbra sensibili?",
+            "content": "<p>100% senza profumo, con un leggero e delicato aroma. Ipoallergenico e dermatologicamente testato. Se puoi usare un normale balsamo labbra, puoi usare Nymevia senza problemi.</p>"
+          }
+        },
+        "item_XPe7a7": {
+          "type": "item",
+          "settings": {
+            "title": "E se non sono soddisfatta?",
+            "content": "<p>La nostra garanzia di 30 giorni ti offre totale tranquillità. Restituisci il prodotto entro 30 giorni per un rimborso completo. Migliaia di clienti soddisfatte — siamo certi che amerai Nymevia.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_9xQHTY",
+        "item_6yTgNk",
+        "item_rtKhaF",
+        "item_DRUEQT",
+        "item_zzaPeh",
+        "item_PkrjFU",
+        "item_jhQqXM",
+        "item_E3NBdM",
+        "item_pcaKdn",
+        "item_XPe7a7"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -546,6 +655,7 @@
     "multi_column_amqfiy",
     "media_with_text_A4LdPg",
     "multi_column_DkDTMd",
-    "rich_text_eaPPxL"
+    "rich_text_eaPPxL",
+    "faq_LPcKRW"
   ]
 }
