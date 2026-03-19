@@ -532,6 +532,39 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_eaPPxL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ekqTNi": {
+          "type": "heading",
+          "settings": {
+            "text": "GARANZIA 100% SODDISFATTI O RIMBORSATI",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_pg3VhH": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Siamo talmente convinti che Nymevia diventerà il vostro nuovo rossetto irrinunciabile che lo accompagniamo con una garanzia soddisfatti o rimborsati di 30 giorni, senza compromessi.</p><p>Provatelo per un mese intero. Portatelo ovunque. Mostratelo alle vostre amiche. Se non adorate assolutamente il vostro colore personalizzato e la sensazione sulle vostre labbra, contattateci semplicemente per un rimborso integrale. Ci assumiamo noi tutto il rischio affinché possiate scoprire la vostra tinta perfetta in tutta tranquillità. Ecco quanto siamo sicuri che vi unirete al 97% delle donne che non tornano mai più ai rossetti classici!</p><p>64 347+ CLIENTI SODDISFATTE</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ekqTNi",
+        "richtext_pg3VhH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#752548",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -542,6 +575,7 @@
     "multi_column_yp9CzK",
     "multi_column_amqfiy",
     "media_with_text_A4LdPg",
-    "multi_column_DkDTMd"
+    "multi_column_DkDTMd",
+    "rich_text_eaPPxL"
   ]
 }
