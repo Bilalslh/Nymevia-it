@@ -239,10 +239,84 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "logo_list_KD6pyk": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_z9zfz3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_hma3DD": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Forbes_logo_black.png",
+            "logo_width": 110,
+            "link": ""
+          }
+        },
+        "logo_VB9YRT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_EEjeBW": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_1.png",
+            "logo_width": 110,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_z9zfz3",
+        "logo_hma3DD",
+        "logo_VB9YRT",
+        "logo_EEjeBW"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Visto su",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
+    "custom_liquid_FEVqUe": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n\n.fb-wrapper{\nmax-width:1100px;\nmargin:40px auto;\npadding:0 16px;\ndisplay:grid;\ngrid-template-columns:repeat(3,1fr);\ngap:24px;\nfont-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif;\nbackground:#f0f2f5;\n}\n\n.fb-card{\nbackground:#ffffff;\nborder-radius:12px;\nbox-shadow:0 4px 10px rgba(0,0,0,0.1);\npadding:18px;\nborder:1px solid #e4e6eb;\n}\n\n.fb-header{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:12px;\n}\n\n.fb-avatar{\nwidth:42px;\nheight:42px;\nborder-radius:50%;\nobject-fit:cover;\n}\n\n.fb-name{\nfont-weight:700;\nfont-size:15px;\ncolor:#050505;\n}\n\n.fb-time{\nfont-size:13px;\ncolor:#65676b;\n}\n\n.fb-text{\nfont-size:14.5px;\nline-height:1.55;\ncolor:#050505;\nmargin-bottom:12px;\n}\n\n.fb-reactions{\ndisplay:flex;\nalign-items:center;\njustify-content:space-between;\nfont-size:13px;\ncolor:#65676b;\npadding-top:6px;\nborder-top:1px solid #e4e6eb;\n}\n\n.fb-actions{\ndisplay:flex;\njustify-content:space-around;\nmargin-top:10px;\nfont-size:14px;\ncolor:#65676b;\n}\n\n.fb-actions span{\ncursor:pointer;\n}\n\n@media (max-width:900px){\n.fb-wrapper{\ngrid-template-columns:1fr;\n}\n}\n\n</style>\n\n\n<div class=\"fb-wrapper\">\n\n<!-- COMMENTO 1 -->\n<div class=\"fb-card\">\n\n<div class=\"fb-header\">\n<img class=\"fb-avatar\" src=\"https://cdn.shopify.com/s/files/1/1030/7528/3275/files/1748552506-image_63_1.jpg?v=1773665050\">\n<div>\n<div class=\"fb-name\">Patrizia Moretti</div>\n<div class=\"fb-time\">1 giorno fa</div>\n</div>\n</div>\n\n<div class=\"fb-text\">\nSignore, avevo letteralmente un CASSETTO DELLA VERGOGNA con più di 30 rossetti che erano bellissimi in negozio ma orribili su di me 😭  \nHo deciso di provare questo dopo aver visto la cosa del pH e OMG… si è davvero trasformato nel MIO rosa perfetto!  \nNon troppo vivace, non troppo nude, semplicemente… io.  \n\nMia figlia l'ha provato e il suo è diventato più corallo.  \nLO STESSO ROSSETTO.  \n\nSono sotto shock. Ho già buttato metà della mia collezione perché a cosa mi servono gli altri??\n</div>\n\n<div class=\"fb-reactions\">\n<div>👍 ❤️ 😍 30</div>\n<div>7 commenti</div>\n</div>\n\n<div class=\"fb-actions\">\n<span>Mi piace</span>\n<span>Commenta</span>\n<span>Condividi</span>\n</div>\n\n</div>\n\n\n<!-- COMMENTO 2 -->\n<div class=\"fb-card\">\n\n<div class=\"fb-header\">\n<img class=\"fb-avatar\" src=\"https://randomuser.me/api/portraits/women/65.jpg\">\n<div>\n<div class=\"fb-name\">Antonella Ferrara</div>\n<div class=\"fb-time\">6 ore fa</div>\n</div>\n</div>\n\n<div class=\"fb-text\">\nOK allora avevo smesso di mettere il rossetto 3 anni fa perché tutto mi seccava le labbra 😭  \n\nMa QUESTO? Rivoluzione!  \nSembra di portare un balsamo labbra, ma ottengo questo magnifico rosa corallo che tiene anche con la mia dipendenza dal caffè.  \n\nLe mie labbra sono davvero PIÙ MORBIDE adesso!  \nÈ sopravvissuto persino alla mia colazione da McDonald's (sì, l'ho testato lol).\n</div>\n\n<div class=\"fb-reactions\">\n<div>👍 ❤️ 😍 27</div>\n<div>5 commenti</div>\n</div>\n\n<div class=\"fb-actions\">\n<span>Mi piace</span>\n<span>Commenta</span>\n<span>Condividi</span>\n</div>\n\n</div>\n\n\n<!-- COMMENTO 3 -->\n<div class=\"fb-card\">\n\n<div class=\"fb-header\">\n<img class=\"fb-avatar\" src=\"https://cdn.shopify.com/s/files/1/1030/7528/3275/files/1767606262__1767606258604-capturedcran2026-01-051044__original.avif?v=1773665031\">\n<div>\n<div class=\"fb-name\">Francesca Ricci</div>\n<div class=\"fb-time\">2 ore fa</div>\n</div>\n</div>\n\n<div class=\"fb-text\">\nPossiamo parlare del fatto che passavo 20 minuti ogni mattina a cercare un rossetto che si abbinasse al mio outfit / umore / pelle del giorno?? 🙄  \n\nAdesso prendo QUESTO UNICO tubetto per tutto.  \n\nRiunioni di lavoro ✅  \nPortare i bambini a scuola ✅  \nSerata romantica ✅  \n\nÈ come se sapesse esattamente di cosa ho bisogno!  \n\nIn più, mi ha letteralmente fatto risparmiare centinaia di euro.  \nMio marito mi ha persino detto \"sei bella\" senza che glielo chiedessi — sposati da 12 anni, per la cronaca.  \n\nQuesta roba è magica.\n</div>\n\n<div class=\"fb-reactions\">\n<div>👍 ❤️ 😍 76</div>\n<div>10 commenti</div>\n</div>\n\n<div class=\"fb-actions\">\n<span>Mi piace</span>\n<span>Commenta</span>\n<span>Condividi</span>\n</div>\n\n</div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "featured_product_yE4BYx",
-    "faq"
+    "faq",
+    "logo_list_KD6pyk",
+    "custom_liquid_FEVqUe"
   ]
 }
