@@ -52,10 +52,17 @@
           "type": "separator",
           "settings": {}
         },
+        "kaching_bundles_app_block_mLjM8T": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "buy_buttons_KQeCaw": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -158,6 +165,7 @@
         "liquid_mhr8rK",
         "liquid_BRVfAK",
         "separator_K68eYn",
+        "kaching_bundles_app_block_mLjM8T",
         "buy_buttons_KQeCaw",
         "liquid_Ur74W8",
         "collapsible_text_DrgwYe",
