@@ -456,6 +456,7 @@
         "image_VrxMht": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_19_2026_-_4_09PM.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
