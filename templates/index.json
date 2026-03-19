@@ -311,12 +311,145 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "multi_column_yp9CzK": {
+      "type": "multi-column",
+      "blocks": {
+        "item_iEdJmc": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Un cimitero di rossetti nel vostro cassetto",
+            "heading_tag": "h4",
+            "content": "<p>Decine di tubetti appena usati che sembravano perfetti in negozio.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6bRTRc": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Riapplicare ogni 2 ore",
+            "heading_tag": "h4",
+            "content": "<p>Ritocchi dopo ogni caffè, pasto e riunione.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rLwCkQ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Più di 300€ spesi per tinte che non vanno bene",
+            "heading_tag": "h4",
+            "content": "<p>Ancora una \"tinta perfetta\" che si è rivelata essere quella sbagliata. Ancora.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_abFknQ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Labbra secche e che si screpolano già a metà giornata",
+            "heading_tag": "h4",
+            "content": "<p>Quella sensazione di tiramento e secchezza che peggiora col passare delle ore.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_iEdJmc",
+        "item_6bRTRc",
+        "item_rLwCkQ",
+        "item_abFknQ"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_amqfiy": {
+      "type": "multi-column",
+      "blocks": {
+        "item_RQWE9D": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "1 APPLICATE",
+            "heading_tag": "h4",
+            "content": "<p>Applicate la formula trasparente sulle labbra come qualsiasi rossetto</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hbk6XC": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "2 TRASFORMAZIONE",
+            "heading_tag": "h4",
+            "content": "<p>Guardatela reagire con il vostro pH per rivelare il vostro colore personalizzato</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Jqj6aT": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "3 SPLENDETE",
+            "heading_tag": "h4",
+            "content": "<p>Godetevi tutto il giorno la vostra tinta perfetta \"le mie labbra, ma meglio\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_RQWE9D",
+        "item_hbk6XC",
+        "item_Jqj6aT"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "featured_product_yE4BYx",
     "logo_list_KD6pyk",
     "custom_liquid_FEVqUe",
-    "faq"
+    "faq",
+    "multi_column_yp9CzK",
+    "multi_column_amqfiy"
   ]
 }
