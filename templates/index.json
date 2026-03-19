@@ -68,6 +68,86 @@
           "settings": {
             "liquid": "{% comment %} Section Avis Client - Custom Liquid - Thème Impact {% endcomment %}\n<style>\n  .reviews-section {\n    width: 100%;\n    padding: 0 16px 40px 16px;\n    background: #ffffff;\n    font-family: inherit;\n    box-sizing: border-box;\n    margin-top: 0;\n  }\n  .review-card {\n    max-width: 680px;\n    margin: 0 auto;\n    background: #ffffff;\n    border: 1.5px solid #ebebeb;\n    border-radius: 20px;\n    padding: 28px 32px 32px 32px;\n    box-sizing: border-box;\n    box-shadow: 0 4px 24px rgba(0,0,0,0.07);\n  }\n  .review-header {\n    display: flex;\n    align-items: center;\n    gap: 16px;\n    margin-bottom: 20px;\n  }\n  .review-avatar {\n    width: 68px;\n    height: 68px;\n    border-radius: 50%;\n    object-fit: cover;\n    flex-shrink: 0;\n    border: 3px solid #f3f3f3;\n    box-shadow: 0 2px 8px rgba(0,0,0,0.10);\n    display: block;\n  }\n  .review-meta {\n    display: flex;\n    flex-direction: column;\n    gap: 5px;\n  }\n  .review-name {\n    font-size: 16px;\n    font-weight: 700;\n    color: #1a1a1a;\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    letter-spacing: -0.2px;\n  }\n  .review-verified {\n    color: #4CAF7D;\n    font-size: 14px;\n  }\n  .review-stars {\n    display: flex;\n    gap: 1px;\n  }\n  .review-stars span {\n    font-size: 20px;\n    color: #4CAF7D;\n    line-height: 1;\n  }\n  .review-text {\n    font-size: 15px;\n    line-height: 1.75;\n    color: #333333;\n    margin: 0;\n    font-weight: 400;\n    font-style: italic;\n  }\n  .review-text::before {\n    content: '\\201C';\n    font-size: 36px;\n    color: #e0e0e0;\n    line-height: 0;\n    vertical-align: -14px;\n    margin-right: 4px;\n    font-style: normal;\n  }\n  @media (max-width: 600px) {\n    .review-card {\n      padding: 20px 18px 24px 18px;\n    }\n    .review-avatar {\n      width: 54px;\n      height: 54px;\n    }\n    .review-stars span {\n      font-size: 17px;\n    }\n    .review-text {\n      font-size: 14px;\n      line-height: 1.65;\n    }\n  }\n</style>\n<div class=\"reviews-section\">\n  <div class=\"review-card\">\n    <div class=\"review-header\">\n      <img\n        class=\"review-avatar\"\n        src=\"https://cdn.shopify.com/s/files/1/1030/7528/3275/files/imgi_23_1748551321-image_63.jpg?v=1773662507\"\n        alt=\"Ava T.\"\n        loading=\"lazy\"\n      />\n      <div class=\"review-meta\">\n        <div class=\"review-name\">Ava. T <span class=\"review-verified\">✔</span></div>\n        <div class=\"review-stars\">\n          <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>\n        </div>\n      </div>\n    </div>\n    <p class=\"review-text\">\n    Ho ricevuto più complimenti sulle mie labbra il mese scorso che durante tutto l'anno precedente! Tutti mi chiedono che tinta porto e adoro dire loro che è creata su misura dalla chimica del mio stesso corpo. La faccia che fanno! Ho già convertito tutto il mio ufficio.\n    </p>\n  </div>\n</div>"
           }
+        },
+        "collapsible_text_DrgwYe": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Quali ingredienti vengono utilizzati?",
+            "content": "<p>Nymevia mescola petrolatum e olio minerale per trattenere l'idratazione, cera d'api per la protezione, vitamina E e acido ialuronico per l'idratazione, oltre a una traccia d'oro 24 carati per un finish antiossidante lussuoso.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_H7VVbm": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Ho le labbra molto secche — è adatto?",
+            "content": "<p>Sì. Nymevia agisce come un balsamo colorato, non come un rossetto mat che secca. Idrata apportando colore, mantenendo le labbra morbide tutto il giorno.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_RRURdf": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Funziona con la mia carnagione?",
+            "content": "<p>La sua formula adattiva al pH reagisce con la chimica del vostro corpo per creare una tinta che completa naturalmente la vostra carnagione.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_TnjXyx": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "E se non mi piace il colore?",
+            "content": "<p>Siete coperti dalla nostra garanzia soddisfatti o rimborsati di 30 giorni. Meno dell'1% dei clienti richiede un reso.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_FKhpda": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Quanto dura il colore?",
+            "content": "<p>Una volta sviluppato, il colore dura fino a più di 8 ore. Resistente all'acqua e si attenua uniformemente.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_eAyFA8": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Il cambio di colore è sicuro?",
+            "content": "<p>Testato da dermatologi, vegan, non testato sugli animali, e formulato con ingredienti botanici naturali reattivi al pH.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_8MiF6U": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "È senza profumo?",
+            "content": "<p>100% senza profumo e senza aroma. Sicuro per le labbra sensibili.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_ex6dLn": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Consegna e resi",
+            "content": "<p>Gli ordini vengono elaborati entro 1-2 giorni e consegnati entro 5-10 giorni lavorativi. Adoriamo il nostro rossetto e siamo convinti che lo amerete anche voi! Se le cose non vanno come previsto, avete 30 giorni completi per richiedere un rimborso.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -79,7 +159,15 @@
         "liquid_BRVfAK",
         "separator_K68eYn",
         "buy_buttons_KQeCaw",
-        "liquid_Ur74W8"
+        "liquid_Ur74W8",
+        "collapsible_text_DrgwYe",
+        "collapsible_text_H7VVbm",
+        "collapsible_text_RRURdf",
+        "collapsible_text_TnjXyx",
+        "collapsible_text_FKhpda",
+        "collapsible_text_eAyFA8",
+        "collapsible_text_8MiF6U",
+        "collapsible_text_ex6dLn"
       ],
       "name": "Featured product",
       "settings": {
