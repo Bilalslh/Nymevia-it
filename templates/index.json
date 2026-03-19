@@ -383,7 +383,7 @@
         "subheading": "",
         "title": "Vi sembra familiare?",
         "content": "",
-        "background": "",
+        "background": "#e7e1e5",
         "background_gradient": "",
         "text_color": ""
       }
@@ -394,6 +394,7 @@
         "item_RQWE9D": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_215_1_400x_c36a063a-2e06-4384-8884-0fd762d45795.png",
             "column_size": "3",
             "title": "1 APPLICATE",
             "heading_tag": "h4",
@@ -406,6 +407,7 @@
         "item_hbk6XC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_217_2_400x_47a6913e-83ca-46dd-9f7f-c78626b06d8c.jpg",
             "column_size": "3",
             "title": "2 TRASFORMAZIONE",
             "heading_tag": "h4",
@@ -418,6 +420,7 @@
         "item_Jqj6aT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_220_3_400x_367e1006-3b88-48a6-af74-1418bb73ef12.jpg",
             "column_size": "3",
             "title": "3 SPLENDETE",
             "heading_tag": "h4",
@@ -439,9 +442,92 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "Scoprite i nostri esperti in dermatologia",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_A4LdPg": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_VrxMht": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Perché scegliere Nymevia?",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_VrxMht"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "multi_column_DkDTMd": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Ndt8pA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/imgi_231_Capture_d_ecran_2026-01-05_095655_400x_45c27e53-c89c-4c2f-82c9-e3a482229e33.png",
+            "column_size": "3",
+            "title": "Dr. Emily Carter",
+            "heading_tag": "h4",
+            "content": "<p>\"Questa formula reattiva al pH è notevole — funziona con la chimica naturale del vostro corpo per creare una tinta valorizzante nutrendo davvero le labbra.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xrr3bL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/imgi_229_Capture_d_ecran_2026-01-05_095555_400x_66a5c596-f279-4097-bf66-14a0c01fd7ab.png",
+            "column_size": "3",
+            "title": "Dr. Anita Sharma",
+            "heading_tag": "h4",
+            "content": "<p>\"Raccomando Nymevia ai pazienti con labbra sensibili. La formula clean e vegan, arricchita con burro di karité e olio di jojoba, offre un'idratazione duratura senza irritazioni né reazioni allergiche.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Ndt8pA",
+        "item_xrr3bL"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Scoprite i nostri esperti in dermatologia",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -454,6 +540,8 @@
     "custom_liquid_FEVqUe",
     "faq",
     "multi_column_yp9CzK",
-    "multi_column_amqfiy"
+    "multi_column_amqfiy",
+    "media_with_text_A4LdPg",
+    "multi_column_DkDTMd"
   ]
 }
