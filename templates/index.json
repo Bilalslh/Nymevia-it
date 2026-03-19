@@ -318,6 +318,7 @@
         "item_iEdJmc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_206_Gemini_Generated_Image_rubk6jrubk6jrubk_700x_6e47fd98-a046-4f52-9391-56ad2a8b87c5.png",
             "column_size": "3",
             "title": "Un cimitero di rossetti nel vostro cassetto",
             "heading_tag": "h4",
@@ -330,6 +331,7 @@
         "item_6bRTRc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_208_2_700x_722eacbe-d1f2-421b-af64-7c070439d624.png",
             "column_size": "3",
             "title": "Riapplicare ogni 2 ore",
             "heading_tag": "h4",
@@ -342,6 +344,7 @@
         "item_rLwCkQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_210_3_700x_dc9033d6-b1a0-4788-961c-d14769a134f1.webp",
             "column_size": "3",
             "title": "Più di 300€ spesi per tinte che non vanno bene",
             "heading_tag": "h4",
@@ -354,6 +357,7 @@
         "item_abFknQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/imgi_212_4_700x_9b2cd537-614a-4842-8ff6-4f8b98c5cebb.webp",
             "column_size": "3",
             "title": "Labbra secche e che si screpolano già a metà giornata",
             "heading_tag": "h4",
@@ -376,9 +380,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "Vi sembra familiare?",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
