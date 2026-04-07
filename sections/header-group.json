@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFERTA DI PRIMAVERA - 1 ACQUISTATO 1 IN OMAGGIO",
+            "text": "Promozione Primavera — Acquista 1 Ricevi 1 GRATIS",
             "url": ""
           }
         }
@@ -25,6 +25,7 @@
       "block_order": [
         "message"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
@@ -39,6 +40,7 @@
     },
     "header": {
       "type": "header",
+      "disabled": true,
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
